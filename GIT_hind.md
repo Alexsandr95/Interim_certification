@@ -22,3 +22,8 @@ git log
 ```sh
 git log --oneline
 ```
+
+Переключение между файлами
+```sh 
+git checkout
+```
