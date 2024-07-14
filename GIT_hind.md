@@ -27,3 +27,7 @@ git log --oneline
 ```sh 
 git checkout
 ```
+Создание новой ветки
+```sh
+git branch <new_txt>
+```
