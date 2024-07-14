@@ -46,3 +46,8 @@ git branch <имя_ветки>
 ```sh
 git log --oneline --graph
 ```
+
+Информация о текущем состоянии
+```sh
+git status
+```
