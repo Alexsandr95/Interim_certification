@@ -31,3 +31,8 @@ git checkout
 ```sh
 git branch <new_txt>
 ```
+
+Слияние двух веток
+```sh
+git merge
+```
