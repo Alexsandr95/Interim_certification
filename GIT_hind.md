@@ -41,3 +41,8 @@ git branch <имя_ветки>
 ```sh
 git branch <имя_ветки>
 ```
+
+Просмотр где создовались ветки
+```sh
+git log --oneline --graph
+```
