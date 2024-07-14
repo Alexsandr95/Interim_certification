@@ -18,3 +18,7 @@ git commit -m "Message"
 git log
 ```
 
+Общий вид содержания сохраненых файлов
+```sh
+git log --oneline
+```
