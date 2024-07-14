@@ -27,3 +27,7 @@ git log --oneline
 ```sh 
 git checkout
 ```
+Отображения всех веток
+```sh
+git branch
+```
