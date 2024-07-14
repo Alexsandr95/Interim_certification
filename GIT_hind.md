@@ -25,5 +25,5 @@ git log --oneline
 
 Переключение между файлами
 ```sh 
-git checkout
+git checkout <branch_name>
 ```
