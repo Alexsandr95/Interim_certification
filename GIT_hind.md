@@ -51,3 +51,8 @@ git log --oneline --graph
 ```sh
 git status
 ```
+
+Показать разницу между версиями
+```sh
+git diff
+```
