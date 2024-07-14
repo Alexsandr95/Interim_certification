@@ -10,7 +10,7 @@ git add <название файла>
 ```
 Добавления коментария в индекс
 ```sh
-git commit -m "Message"
+git commit -m "Message text"
 ```
 
 Перключения между версией файла
