@@ -68,3 +68,7 @@ git pull
 ```sh
 git push
 ```
+Запрос на вливание изменений репозитория
+```sh
+pull request
+```
